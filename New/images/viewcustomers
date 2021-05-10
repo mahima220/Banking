@@ -1,0 +1,7 @@
+CREATE DATABASE customers;
+CREATE TABLE customer(
+firstname VARCHAR2(255),
+MAIL-ID VARCHAR2(255),
+current_balance INT(255)
+);
+
